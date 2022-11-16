@@ -1,0 +1,176 @@
+
+
+
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 5rem;
+    text-align: center;
+    color: black;
+}
+
+
+ul li a{
+    font-family: 'Jost', sans-serif;
+    font-size: 1.5rem;
+    color: black;
+    text-decoration: none;
+    margin-top: 5%;
+    text-align: center;
+}
+
+ul li a:hover{
+        background-color:black;
+        color: white;
+}
+
+.homeimgs{
+  
+}
+.imgcol1{
+  background-color: black;
+  width: 510px;
+  height: 330px;
+  margin-top: 5%;
+    
+}
+
+.imgcol2{
+    background-color: black;
+    width: 510px;
+    height: 330px;
+    margin-top: 5%;
+    
+}
+
+div img{
+
+}
+.mtv{
+  margin-top: 3%;
+  margin-left: 3%;
+}
+
+.vogue{
+    margin-top: 3%;
+  margin-left: 3%;
+}
+
+h2{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    height: 100px;
+    font-family: 'Jost', sans-serif;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 5%;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    padding-top: 3%;
+}
+
+footer a:hover{
+    color: goldenrod;
+}
+
+h3{
+    font-family: 'Jost', sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.descripcion{
+    font-family: 'Jost', sans-serif;
+    font-size: 1.7rem;
+    text-align: justify;
+}
+
+.imgálbum{
+  
+    background-color: black;
+    width: 425px;
+    height: 425px;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.sun{
+    margin-top: 3%;
+   
+}
+
+
+
+.likeme{
+    margin-top: 3%;
+   
+}
+
+h4{
+    font-family: 'Jost', sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+
+.txtpelícula{
+    font-family: 'Jost', sans-serif;
+    font-size: 1.7rem;
+    text-align: justify;
+
+}
+
+.fentybeauty{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.fentytxt p{
+    font-family: 'Jost', sans-serif;
+    font-size: 1.5rem;
+    text-align: justify;
+    margin-top: 2%;
+}
+
+
+h5{
+    font-family: 'Jost', sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-top: 5%;
+    text-align: center;
+}
+
+@keyframes animate__pulse{
+    animation: pulse 5s;
+}
+
+.saludo{
+    align-content: center;
+    justify-content: center;
+   height: 500px;
+   margin-left: 15%;
+}
+
+@keyframes animate__fadeIn{
+    animation: fadeIn 5s;
+}
+
+@keyframes animate__zoomIn{
+    animation: zoomIn 5s;
+}
+
+@keyframes animate__slideInLeft{
+    animation: slideInLeft 5s;
+}
+
